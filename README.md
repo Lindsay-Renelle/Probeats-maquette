@@ -1,4 +1,17 @@
 # Probeats- Maquette Figma
+## 🔗 Lien vers la maquette Figma
+
+👉 [Voir la maquette sur Figma](https://www.figma.com/design/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1261-1052&t=bBKlLkiv0J96U7oy-1)
+
+Cette maquette a été réalisée dans le cadre du projet *Probeats*, une interface web e-commerce pour une marque de matériel audio haut de gamme.
+
+Elle comprend :
+- Des wireframes mobiles
+- Un prototype interactif
+- Des composants réutilisables et structurés
+
+Outils utilisés : **Figma**.
+
 
 Présentation de Probeats
 La société Probeats est une nouvelle marque de matériel audio qui promeut une expérience sonore Ultra-Haute- Qualité et immersive, en proposant des produits toujours plus innovants.
