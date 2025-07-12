@@ -1,7 +1,13 @@
-# Probeats- Maquette Figma
-## 🔗 Lien vers la maquette Figma
+Probeats- Maquette Figma
 
-👉 [Voir la maquette sur Figma](https://www.figma.com/design/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1261-1052&t=bBKlLkiv0J96U7oy-1)
+🔗 Lien vers la maquette Figma
+    -  Voir la maquette sur Figma : " https://www.figma.com/design/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1261-1052&t=bBKlLkiv0J96U7oy-1 "
+
+🔗 Liens vers les réseaux sociaux :(lien fictif)
+    - Instagram : " https://instagram.com/probeats "
+    - Twitter : " https://twitter.com/probeats " 
+
+
 
 Cette maquette a été réalisée dans le cadre du projet *Probeats*, une interface web e-commerce pour une marque de matériel audio haut de gamme.
 
