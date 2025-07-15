@@ -1,11 +1,5 @@
 Probeats- Maquette Figma
 
-🔗 Lien vers la maquette Figma
-    -  Voir la maquette sur Figma : " https://www.figma.com/design/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1261-1052&t=bBKlLkiv0J96U7oy-1 "
-    
-🔗 Lien Vers Prototpes 
-    - Prototype - Desktop - Page d'accueil : https://www.figma.com/proto/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1257-788&t=ckGhSGS0GsemylGg-1
-    - Prototype - Mobile - Page d'accueil : https://www.figma.com/proto/ucPJqAfGjIAOk0bYyQWQDT/Preabeats---Maquette?node-id=1348-712&t=ckGhSGS0GsemylGg-1
 
 🔗 Liens vers les réseaux sociaux :(lien fictif)
     - Instagram : " https://instagram.com/probeats "
